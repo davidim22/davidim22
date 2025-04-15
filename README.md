@@ -1,7 +1,6 @@
 ## 👋 About Myself:
 🌱 I'm a passionate learner and aspiring computer scientist at Keio University. </br>
-💻 Currently Exploring: Machine Learning </br>
-- I’m diving deep into the world of machine learning technologies and excited to discover their potential. </br>
+💻 I’m diving deep into the world of machine learning technologies and excited to discover their potential. </br>
 
 
 ## 🌐 Socials:
